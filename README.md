@@ -1,2 +1,2 @@
-# rdd
-Red's Daily Drivers Modpack
+# Modpack Issues
+Red's Daily Drivers Modpack Issue Tracker
